@@ -16,7 +16,7 @@ The Project Movie recommendation system uses NLP(Natural language processing) to
 #Installation
 - Python 3.x
 - pip (Python package installer)
-  1.)NLTK(Natural language Toolkit.
+  1.)NLTK(Natural language Toolkit)
 - Git
 
 
