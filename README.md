@@ -1,8 +1,8 @@
 # Movie-recommendation-system-using-NLP
-##Project Description:
+#Project Description:
 The Project Movie recommendation system uses NLP(Natural language processing) to suggest movies based on user input. By analyzing movie descriptions, the system can understand user preferences and recommend similar movies accordingly.
 
-##Features:
+#Features:
 - Recommend movies based on user input.
 - Utilizes NLP techniques to understand movie descriptions:
   1.)Tokenisation
@@ -12,7 +12,7 @@ The Project Movie recommendation system uses NLP(Natural language processing) to
   5.)Text Normalization
 - Interactive web interface for movie recommendations.
 
-##Installation
+#Installation
 - Python 3.x
 - pip (Python package installer)
   1.)NLTK(Natural language Toolkit.
